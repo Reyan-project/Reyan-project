@@ -6,7 +6,7 @@ Vous trouverez ici mes projets réalisés au cours de cette formation :
 
 ---
 
-## 💼 Professional Journey
+## 💼 Parcours
 
 - Ancien **comptable**, reconverti dans la data
 - Diplômé du parcours **Data Analyst** chez OpenClassrooms
@@ -16,7 +16,7 @@ Vous trouverez ici mes projets réalisés au cours de cette formation :
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Compétences et outils
 
 | Catégorie                     | Outils/Technologies                                                                              |
 |-------------------------------|-------------------------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ Vous trouverez ici mes projets réalisés au cours de cette formation :
 
 ---
 
-## 🌱 Continuous Learning
+## 🌱 Toujours dans l'apprentissage continue
 
 - Formation Python supplémentaire sur **Udemy**
 - Développement de plusieurs projets personnels
@@ -36,7 +36,7 @@ Vous trouverez ici mes projets réalisés au cours de cette formation :
 
 ---
 
-## 🔥 Current Focus
+## 🔥 Mes objectifs actuelles
 
 - Programmation Python avancée
 - Concepts d’ingénierie des données
@@ -44,7 +44,7 @@ Vous trouverez ici mes projets réalisés au cours de cette formation :
 
 ---
 
-## 📫 Connect With Me
+## 📫 Me contacter
 
 - **GitHub** : [@Reyan-project](https://github.com/Reyan-project)
 - **LinkedIn** : [Long Fabrice](https://www.linkedin.com/in/fabrice-long/)
