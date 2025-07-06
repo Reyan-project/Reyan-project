@@ -56,17 +56,14 @@ Vous trouverez ici mes projets réalisés au cours de cette formation :
 
 | Projet                                                                                                      | Outils/Technos        |
 |-------------------------------------------------------------------------------------------------------------|-----------------------|
-| [Prenez en main votre formation de Data Analyst](#)                                                         |                       |
-| [Faites une analyse de ventes pour un e-commerce](#)                                                        | Python, Excel         |
-| [Requêtez une base de données avec SQL](#)                                                                  | SQL                   |
-| [Réalisez une étude de santé publique avec Python](#)                                                       | Python                |
-| [Créez et utilisez une base de données immobilière avec SQL](#)                                             | SQL                   |
-| [Optimisez la gestion des données d'une boutique avec Python](#)                                            | Python                |
-| [Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](#)               | Power BI              |
-| [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD](#)                                 | Python, RGPD          |
-| [Analysez les ventes d'une librairie avec Python](#)                                                        | Python                |
-| [Faites une étude sur l'eau potable](#)                                                                     | Python                |
-| [Produisez une étude de marché avec Python](#)                                                              | Python                |
-| [Détectez des faux billets avec Python](#)                                                                  | Python                |
-| [Créez votre portfolio de professionnel de la data](#)                                                      |                       |
+| [Réalisez une étude de santé publique avec Python](./projets/projet-4/)                                                       | Python                |
+| [Créez et utilisez une base de données immobilière avec SQL](./projets/projet-5/)                                             | SQL                   |
+| [Optimisez la gestion des données d'une boutique avec Python](./projets/projet-6/)                                            | Python                |
+| [Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](./projets/projet-7/)               | Power BI              |
+| [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD](./projets/projet-8/)                                 | Python, RGPD          |
+| [Analysez les ventes d'une librairie avec Python](./projets/projet-9/)                                                        | Python                |
+| [Faites une étude sur l'eau potable](./projets/projet-10/)                                                                     | Python                |
+| [Produisez une étude de marché avec Python](./projets/projet-11/)                                                              | Python                |
+| [Détectez des faux billets avec Python](./projets/projet-12/)                                                                  | Python                |
+
 
