@@ -70,8 +70,3 @@ Vous trouverez ici mes projets réalisés au cours de cette formation :
 | [Détectez des faux billets avec Python](#)                                                                  | Python                |
 | [Créez votre portfolio de professionnel de la data](#)                                                      |                       |
 
-_Remplace `#` par le lien de chaque projet quand tu l’auras créé sur GitHub !_
-
----
-
-N’hésitez pas à me contacter pour discuter data, projets ou opportunités professionnelles !
