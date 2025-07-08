@@ -47,7 +47,7 @@ Vous trouverez ici mes projets réalisés au cours de cette formation :
 ## 📫 Me contacter
 
 - **GitHub** : [@Reyan-project](https://github.com/Reyan-project)
-- **LinkedIn** : [Long Fabrice](www.linkedin.com/in/fabrice-long-30204a12b)
+- **LinkedIn** : [Long Fabrice](https://www.linkedin.com/in/fabrice-long-30204a12b)
 - **Localisation** : Noisy le Grand, France
 
 ---
